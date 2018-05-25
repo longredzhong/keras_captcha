@@ -1,1 +1,2 @@
 # keras_captcha
+这是一个用keras写的用于识别图像验证码的小程序
